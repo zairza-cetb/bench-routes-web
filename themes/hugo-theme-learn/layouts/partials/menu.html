@@ -2,10 +2,12 @@
 
 {{ $currentNode := . }}
 {{ $showvisitedlinks := .Site.Params.showVisitedLinks }}
-  <div id="header-wrapper">
-    <div id="header">
+  <div id="header-wrapper" style="text-align: left; font-size: 20px;">
+    <!-- Place logo here -->
+    Bench Routes
+    <!-- <div id="header">
       {{ partial "logo.html" . }}
-    </div>
+    </div> -->
     {{if not .Site.Params.disableSearch}}
         {{ partial "search.html" . }}
     {{end}}

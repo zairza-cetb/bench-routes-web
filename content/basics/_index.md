@@ -14,6 +14,10 @@ Monitoring has been tough and with the increase in the routes used in any sophis
 With an increase in server computational models, the probability of a complete request-response cycle without any throws is nowhere close to 1. 
 bench-routes acts as a routes-benchmarking, monitoring, and route-network analysis tool. It monitors the routes of the application and analyses the network pipe between the server-client.
 
+# Implementation
+Implementation
+The implementation of the above-proposed idea would be carried out in the Go programming language. This project will launch itself on boot and work as a daemon service. The benchroutes-UI, an electron app(would be later discussed), will be responsible for the graphical aspect of the project.
+
 # Goals
 
 - Benchmark route
