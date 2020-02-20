@@ -3,7 +3,7 @@ title: "Home Page"
 date: 2019-09-20T04:20:36+04:30
 weight: 1
 ---
-# Documentation
+# Bench routes Documentation
 This documentation enables you to integrate with our service easily.
 ## Documentation Summary
 {{% children style="h3" depth="2" description="true" %}}

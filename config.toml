@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bench Routes Documentation"
 # Change the default theme
 theme = "hugo-theme-learn"
 # For search functionality
